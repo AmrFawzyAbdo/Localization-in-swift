@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Chnage background color"; ObjectID = "9Fm-l1-rfs"; */
+"9Fm-l1-rfs.normalTitle" = "تغير لون الخلفية";
+
+/* Class = "UILabel"; text = "Egypt"; ObjectID = "JJ8-e5-tFV"; */
+"JJ8-e5-tFV.text" = "مصر";
+
+/* Class = "UIButton"; normalTitle = "Chnage language"; ObjectID = "MNI-YF-jFZ"; */
+"MNI-YF-jFZ.normalTitle" = "تغيير اللغة";
+
+/* Class = "UITextField"; placeholder = "Write here"; ObjectID = "eB5-jk-UcH"; */
+"eB5-jk-UcH.placeholder" = "اكتب هنا";

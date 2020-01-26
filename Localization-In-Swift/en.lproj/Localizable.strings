@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localization-In-Swift
+
+  Created by Apple on 1/26/20.
+  Copyright © 2020 Apple. All rights reserved.
+*/
+
+"changeableText" = "The language of this text will be in arabic after
+pressing change language button.";

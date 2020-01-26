@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localization-In-Swift
+
+  Created by Apple on 1/26/20.
+  Copyright © 2020 Apple. All rights reserved.
+*/
+
+"changeableText" = "سيتم تغيير هذا النص الى اللغة الإنجليزية بعد الضغط علي زر تغيير اللغة.";
